@@ -1,4 +1,11 @@
-# Privacy Policy for RegattaTimer
+<h1 align="center">
+    <picture>
+        <img src="assets/regatta-timer.png" alt="Regatta Timer Logo" width="500"/>
+    </picture>
+</h1>
+
+
+# RegattaTimer Privacy Policy
 
 **Effective Date:** 10.6.2025  
 **Developer:** Masus  

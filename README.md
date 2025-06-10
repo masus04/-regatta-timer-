@@ -1,3 +1,12 @@
+<!-- ![Regatta Timer Logo](assets/regatta-timer.png) -->
+
+<h1 align="center">
+    <picture>
+        <img src="assets/regatta-timer.png" alt="Regatta Timer Logo" width="500"/>
+    </picture>
+</h1>
+
+
 # ⏱️ regatta-timer ⛵️
 Welcome to the public issue and discussion repository for Regatta Timer.
 
