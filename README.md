@@ -12,3 +12,6 @@ If you would like to propose a new feature, create a new [Feature Request](https
 
 ## Discussions
 For any discussions and/or questions, use the the [Discussions](https://github.com/masus04/-regatta-timer-/discussions/categories) section.
+
+## Privacy Policy
+Read up on our [Privacy Policy](privacy-policy.md).
